@@ -5,6 +5,19 @@
   
   <entry>
     <title></title>
+    <link href="/blog/2025/02/08/misc1/"/>
+    <url>/blog/2025/02/08/misc1/</url>
+    
+    <content type="html"><![CDATA[<h4 id="目录："><a href="#目录：" class="headerlink" title="目录："></a>目录：</h4><p>​<strong>杂项11</strong></p><p>​<strong>隐写1</strong></p><p>​<strong>隐写2</strong></p><p>​<strong>萌新 隐写5</strong></p><p>​<strong>萌新 隐写6</strong></p><h5 id="杂项11"><a href="#杂项11" class="headerlink" title="杂项11"></a>杂项11</h5><p>把图片放在jphswin中解密</p><p><img src="/blog/images/%E6%9D%82%E9%A1%B911/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-08%20094542.png"></p><p>保存下来是一个二维码，用CQR扫出来一个链接</p><p><img src="/blog/images/%E6%9D%82%E9%A1%B911/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-08%20094552.png"></p><p>用base64解码</p><p><img src="/blog/images/%E6%9D%82%E9%A1%B911/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-08%20131909.png"></p><h5 id="隐写1"><a href="#隐写1" class="headerlink" title="隐写1"></a>隐写1</h5><p>下载后是一个打不开的图片,用010打开</p><p>常见的文件头参考<a href="https://blog.csdn.net/xiangshangbashaonian/article/details/80156865">【CTF杂项】常见文件文件头文件尾格式总结及各类文件头_ctf常见文件头-CSDN博客</a></p><p>PNG (png)，            　　 文件头：89504E47　</p><p><img src="/blog/images/%E9%9A%90%E5%86%991/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-08%20094855.png"></p><p>图片正常打开，出现flag</p><p><img src="/blog/images/%E9%9A%90%E5%86%991/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-08%20133145.png"></p><h5 id="隐写2"><a href="#隐写2" class="headerlink" title="隐写2"></a>隐写2</h5><p>打开图片提示要打开jphswin</p><p><img src="/blog/images/%E9%9A%90%E5%86%992/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-08%20095220.png"></p><p>在jphswin打开图片解码</p><p><img src="/blog/images/%E9%9A%90%E5%86%992/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-08%20095243.png"></p><p>打开解码的文本文件</p><p><img src="/blog/images/%E9%9A%90%E5%86%992/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-08%20133502.png"></p><h5 id="萌新-隐写5"><a href="#萌新-隐写5" class="headerlink" title="萌新 隐写5"></a>萌新 隐写5</h5><p>打开文本文件</p><p>打开发现一行汉字</p><p><img src="/blog/images/%E8%90%8C%E6%96%B0%20%E9%9A%90%E5%86%995/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-08%20125311.png"></p><p>打开010发现base编码</p><p><img src="/blog/images/%E8%90%8C%E6%96%B0%20%E9%9A%90%E5%86%995/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-08%20134524.png"></p><p>复制下来进行base32编码</p><p><img src="/blog/images/%E8%90%8C%E6%96%B0%20%E9%9A%90%E5%86%995/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-08%20134710.png"></p><h5 id="萌新-隐写6"><a href="#萌新-隐写6" class="headerlink" title="萌新 隐写6"></a>萌新 隐写6</h5><p>把下载后的音频放入Audacity中将文件导出为MP3</p><p><img src="/blog/images/%E8%90%8C%E6%96%B0%20%E9%9A%90%E5%86%996/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-08%20135437.png"></p><p>用摩尔斯电码音频解码器解码</p><p><img src="/blog/images/%E8%90%8C%E6%96%B0%20%E9%9A%90%E5%86%996/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-02-08%20135929.png"></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title></title>
     <link href="/blog/2025/02/07/misc/"/>
     <url>/blog/2025/02/07/misc/</url>
     
